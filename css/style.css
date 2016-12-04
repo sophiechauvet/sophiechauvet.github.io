@@ -1,0 +1,70 @@
+body {
+	background-color: lightcyan;
+}
+.profilepic {max-width: 100%;}
+.content {float: right;}
+.progress {background-color: lightcyan;}
+.myprogress::-webkit-progress-value {background-color: lightcoral ! important;}
+.myprogress2::-webkit-progress-value {background-color: palevioletred ! important;}
+.identity {display: inline;}
+.wiki {text-align: center;}
+.languages {text-align: left;}
+
+
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background-image: url("../img/palomino.jpg");
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #e16879;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+.jumbotron {
+  background-color: transparent!important
+ 
+}
